@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f1a80bed99981389d221a176",
+  "owner": "mfvxby",
+  "repo": "page-634d5d0f74cb03d61095fc65",
+  "title": "茶猫(Teacat)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "634d5d0f74cb03d61095fc65",
+      "a": "茶猫(Teacat)",
+      "b": "",
+      "entity": "茶猫(Teacat)",
+      "brand": "茶猫(Teacat)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "373d4932c3d27cab0c700bd5580eea6ff16ff8f8e5817a52c8007a2e5dce3864",
+      "content": {
+        "keyword1": "茶猫(Teacat)",
+        "keyword2": "",
+        "primary_entity": "茶猫(Teacat)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "茶猫(Teacat)是专注稳定机场订阅与VPN网络加速的官方平台，提供多端客户端下载、流媒体解锁与游戏专线，套餐灵活覆盖个人与团队需求。",
+          "AI_DESCRIPTION": "茶猫(Teacat)是专注稳定机场订阅与VPN网络加速的官方平台，提供多端客户端下载、流媒体解锁与游戏专线，套餐灵活覆盖个人与团队需求。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px;-webkit-text-size-adjust:100%}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#f4f4f5;color:#18181b;line-height:1.65;overflow-x:hidden}a{color:#6d28d9;text-decoration:none}header{background:#ede9fe;padding:12px 16px;border-bottom:2px solid #c4b5fd}nav{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;max-width:960px;margin:0 auto}nav a{font-weight:600}main{display:block}.wrap{max-width:920px;margin:0 auto;padding:20px 16px}h1{font-size:1.75rem;color:#5b21b6;margin:12px 0 20px;text-align:center;line-height:1.35}h2{font-size:1.35rem;color:#6d28d9;margin:28px 0 12px;padding-bottom:6px;border-bottom:1px solid #ddd6fe}h3{font-size:1.1rem;color:#4c1d95;margin:16px 0 8px}p,li{margin-bottom:10px}ul{padding-left:1.25rem}.hero{background:#fff;padding:20px;border-radius:10px;margin-bottom:20px;border:1px solid #e4e4e7}.grid{display:flex;flex-wrap:wrap;gap:16px;margin:16px 0}.card{flex:1 1 250px;background:#fff;padding:18px;border-radius:10px;border:1px solid #e4e4e7}.card.featured{border:2px solid #7c3aed;background:#faf5ff}.price{font-size:1.35rem;font-weight:700;color:#5b21b6;margin:8px 0}.note{font-size:0.92rem;color:#52525b}.step{background:#fff;padding:16px;margin:12px 0;border-radius:8px;border-left:4px solid #7c3aed}.alt{display:flex;flex-wrap:wrap;gap:16px;align-items:stretch;margin:18px 0}.alt>div{flex:1 1 280px;background:#fff;padding:16px;border-radius:8px;border:1px solid #e4e4e7}details{background:#fff;border:1px solid #e4e4e7;border-radius:8px;margin:10px 0;padding:4px 12px}summary{padding:10px 0;font-weight:600;color:#5b21b6}details p{padding-bottom:12px}footer{background:#27272a;color:#e4e4e7;padding:24px 16px;margin-top:36px;font-size:0.92rem}footer a{color:#c4b5fd}footer .wrap{padding-top:0}.friends a,.ads a{margin:0 10px 8px 0;display:inline-block}@media(max-width:600px){h1{font-size:1.42rem}.card{flex:1 1 100%}}</style><header><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#guide\">配置流程</a><a href=\"#nodes\">节点说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main class=\"wrap\"><h1>茶猫(Teacat) 官方网站：机场订阅、VPN 加速器与客户端下载</h1><p>茶猫(Teacat)官方网站集中提供机场订阅、网络加速说明与多端客户端配置指南，帮助个人与团队稳定访问国际网络资源。</p><section id=\"intro\" class=\"hero\"><h2>品牌简介</h2><p>茶猫(Teacat)面向需要跨境访问、流媒体观看与低延迟游戏的用户，提供以订阅为核心的机场服务。用户购买套餐后即可获取可用订阅地址，在主流客户端中导入规则与节点，按自身场景选择线路。我们强调配置可复现、节点可切换、流量可预期，避免把加速过程做成黑盒。</p><p>作为茶猫官网信息页，这里只说明套餐边界、设备数量、配置步骤与常见问题，方便你对照客户端完成接入。协议与客户端生态以 Clash 兼容订阅为主，同时可在支持的工具中使用分流、策略组与规则更新。</p></section><div class=\"alt\"><div><h3>为什么选择茶猫机场</h3><p>茶猫把「能连上」和「能看懂怎么连」放在同等位置。套餐按月流量与同时在线设备划分，旗舰版补充 IPLC 游戏向线路与优先工单，团队版面向多终端共享。节点池包含常规线路与原生流媒体向节点，便于按应用分流：浏览走普通节点，视频与游戏走对应策略。</p></div><div><h3>官方使用边界</h3><ul><li>订阅仅限购买账号使用，请勿公开传播链接。</li><li>同时在线设备数以套餐为准，超出可能无法新建连接。</li><li>流媒体解锁随节点与平台策略变化，旗舰与团队覆盖更完整。</li><li>客户端请从系统应用商店或项目官方渠道获取安装包。</li></ul></div></div><section id=\"scenes\"><h2>使用场景</h2><div class=\"alt\"><div><h3>学习与远程协作</h3><p>访问文献库、在线课程、协作文档与海外代码托管时，可把学术与办公域名放入直连或指定节点策略，减少页面超时。多设备套餐适合笔记本、手机与平板同时在线。</p></div><div><h3>流媒体与下载</h3><p>观看国际流媒体、同步云盘或拉取较大安装包时，选择解锁较好的节点并开启对应规则。基础版覆盖基础流媒体，旗舰版强调全节点原生向解锁，减少地区限制提示。</p></div></div><div class=\"alt\"><div><h3>游戏与实时语音</h3><p>对延迟敏感的对战与语音场景，优先使用旗舰版中的 IPLC 专线优化节点，并在客户端为游戏进程单独分流，避免下载任务挤占带宽。</p></div><div><h3>出行与多地切换</h3><p>出差或跨境移动时，保留同一订阅即可在不同地区切换节点。建议提前在常用设备完成导入，仅需更新订阅与选择邻近线路。</p></div></div></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为茶猫(Teacat)当前公开档位，流量按自然月重置，年付对应价格已在各档标明。请按设备数量与是否需要游戏专线选择，避免超限后再频繁变更。</p><div class=\"grid\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"note\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"note\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"note\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"guide\"><h2>配置流程</h2><p>茶猫机场的接入重点是「买套餐 → 复制订阅 → 安装客户端 → 导入并分流」。按下列顺序操作，可把大部分首次失败排除在链接复制错误、客户端过旧或未更新订阅三类问题之外。</p><div class=\"step\"><h3>第一步：确认套餐与设备数量</h3><p>根据同时在线终端选择基础版、旗舰版或团队版。笔记本、手机、平板各算一台。若需要游戏向 IPLC 或更完整的流媒体解锁，直接选择旗舰版，减少后期升级次数。</p></div><div class=\"step\"><h3>第二步：在用户中心获取订阅地址</h3><p>完成开通后进入账号面板，复制 Clash 兼容订阅链接。链接视为账号凭证，不要发到群组或截图公开。如怀疑泄露，立即在面板重置订阅，旧地址会失效。</p></div><div class=\"step\"><h3>第三步：安装对应系统的客户端</h3><p>Windows 与 macOS 可使用 Clash 系图形客户端；Android 使用 Clash Meta 类应用；iOS 使用支持订阅的商店应用。安装来源应是应用商店或客户端项目公布的发布页，茶猫官网提供配置说明而非来路不明的安装包。</p></div><div class=\"step\"><h3>第四步：导入订阅并更新节点</h3><p>打开客户端的订阅或配置页面，粘贴链接并保存，执行一次手动更新。确认节点列表出现后，开启系统代理或 VPN 模式。建议先用浏览器访问国际站点验证连通，再为流媒体与游戏添加分流规则。</p></div><div class=\"step\"><h3>第五步：按场景选择节点与规则</h3><p>日常浏览可选延迟较低的普通节点；视频选择解锁标记更明确的线路；游戏尽量走 IPLC 或游戏优化组。遇到单一节点超时，先切换同区域其他节点，再检查本地防火墙与系统时间是否准确。</p></div></section><section id=\"nodes\"><h2>节点与线路说明</h2><div class=\"alt\"><div><h3>普通线路节点池</h3><p>基础版主要使用普通线路，覆盖常用地区，适合网页、轻量视频与即时通讯。高峰期如出现拥堵，可更换同国家其他入口，或将大流量任务错峰进行。</p></div><div><h3>IPLC 与高带宽节点</h3><p>旗舰版加入 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，并支持企业定制路由。这类线路更适合对抖动敏感的对战与会议，不建议把全屋下载都压在同一条专线上。</p></div></div><p>性能表现与本地运营商、时段、终端性能有关。配置完成后，用客户端自带延迟测试筛选节点即可，无需依赖第三方测速页。若连续多节点失败，优先检查订阅是否过期、流量是否用尽、设备数是否超限。</p></section><section id=\"download\"><h2>客户端下载与官方渠道</h2><p>茶猫(Teacat)以机场订阅为核心，客户端下载请走各系统可信渠道。本页是官网配置说明，帮助你把订阅正确导入，而不是替代应用商店。</p><h3>桌面端</h3><p>Windows、macOS 安装 Clash 兼容客户端后，使用「订阅 URL」导入茶猫提供的地址，开启 TUN 或系统代理。首次导入后勾选自动更新，避免规则过期。</p><h3>移动端</h3><p>Android 选择可导入 Clash 订阅的客户端；iOS 需在对应商店获取支持订阅的应用。导入后在分应用代理中为浏览器、视频与游戏分别指定策略，减少全局代理带来的耗电。</p><h3>路由与多设备</h3><p>团队版适合网关统一接入：在支持订阅的路由系统中填入同一地址，终端不再重复拨号。仍须遵守套餐同时在线与流量上限。官方下载与更新说明以本站配置流程为准，安装包校验以客户端发布方为准。</p><p><a href=\"#guide\">返回配置流程</a> · <a href=\"#plans\">查看套餐</a> · <a href=\"#faq\">阅读 FAQ</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>茶猫(Teacat)机场和传统单一出口 VPN 有何不同？</summary><p>茶猫采用机场订阅：一份配置可切换多个地区节点，并按规则分流。传统单一出口往往只有固定服务器，换线路成本高。订阅模式更适合同时处理网页、视频与游戏，也便于在多设备间同步同一套规则。</p></details><details><summary>如何从茶猫官网完成客户端下载与首次连接？</summary><p>先在套餐页确定档位，再到用户中心复制订阅。然后在系统应用商店安装 Clash 兼容客户端，粘贴订阅并更新节点，最后选择代理模式进行访问测试。官网提供步骤说明，不托管来源不明的安装文件。</p></details><details><summary>三个套餐分别适合什么人？</summary><p>基础版适合流量与设备都少的个人轻度使用；旗舰版覆盖更高流量、五台设备和 IPLC 游戏优化，是大多数用户的平衡档；团队版面向多终端共享、需要高带宽与定制路由的小团队。超设备或超流量时应升级而不是共享同一链接给无关人员。</p></details><details><summary>流媒体提示不在服务区或游戏延迟高怎么办？</summary><p>先更新订阅，再切换带解锁或游戏标记的节点，并确认客户端规则没有把该应用直连。旗舰版强调全节点原生流媒体解锁与 IPLC 优化；若仅基础版节点，效果会更受时段影响。语音与对战建议关闭占用上行的大下载。</p></details><details><summary>订阅泄露、流量异常或无法连接如何处理？</summary><p>立刻在用户中心重置订阅并在所有设备重新导入。核对当月流量与同时在线设备是否超限。仍失败时检查系统时间、本地防火墙以及客户端是否为过旧版本。旗舰版可走优先工单，团队版可联系专属客户经理协助排查路由。</p></details><details><summary>是否可以在路由器上使用茶猫 VPN 订阅？</summary><p>可以。只要路由固件支持 Clash 或等价订阅导入，填入同一地址即可让局域网设备共享。团队版在设备数量与带宽上更匹配这种用法。注意IoT设备若无需跨境访问，应加入直连名单，以免占用套餐流量。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"ads\"><strong>站内说明：</strong> <a href=\"#plans\">查看旗舰版 IPLC 与流媒体套餐</a> <a href=\"#guide\">打开五步配置流程</a> <a href=\"#download\">客户端下载说明</a></div><div class=\"friends\"><strong>友情链接：</strong> <a href=\"#\">网络工具导航</a> <a href=\"#\">分流规则说明</a> <a href=\"#\">客户端对照表</a> <a href=\"#\">流媒体区域指南</a> <a href=\"#\">路由订阅教程</a></div><p>站点地图：<a href=\"#\">Sitemap</a> · 茶猫(Teacat) 官方网站 · 机场订阅与 VPN 加速器信息页</p><p>内容用于说明套餐、配置与下载渠道，请遵守所在地网络与软件使用规定。域名与面板入口以实际开通信息为准。</p></div></footer>",
+          "hash": "795fee211aa05b5678f182873dcd1572a45d31ba05546697b082983996871fca",
+          "seo": {
+            "title": "茶猫(Teacat)官网 - VPN梯子网络加速、机场订阅与客户端下载",
+            "keywords": "茶猫,Teacat,茶猫机场,茶猫VPN,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC,流媒体解锁",
+            "description": "茶猫(Teacat)是专注稳定机场订阅与VPN网络加速的官方平台，提供多端客户端下载、流媒体解锁与游戏专线，套餐灵活覆盖个人与团队需求。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yasute.cn",
+    "host": "p-0f69936a45.yasute.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "yasute.cn",
+      "url": "https://yasute.cn/",
+      "label": "Shadowsocks",
+      "apex": "yasute.cn",
+      "kind": null,
+      "identity": "gyhnusbwhx/page-4e0dbac4109ceeff98300d5a"
+    },
+    {
+      "host": "bao1999.cn",
+      "url": "https://bao1999.cn/",
+      "label": "茶猫(Teacat)",
+      "apex": "bao1999.cn",
+      "kind": null,
+      "identity": "kjcpyecst/page-6ec0cb6adc7c1b96481a3a71"
+    },
+    {
+      "host": "ipjahha.cn",
+      "url": "https://ipjahha.cn/",
+      "label": "茶猫(Teacat)",
+      "apex": "ipjahha.cn",
+      "kind": null,
+      "identity": "ssxywc54xcv/page-4a6ae51899f1d26422dc7fba"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "843ec8b21a3df0204f912d0402f104c599ee748f7f9281d5f222a1ab7dd3dc2f",
+    "sitemap.xml": "fe2cd71521d9c429678afb004c24d9ab003c15f7b3e453d8bc229098de798070",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "787de36350acbcf862551db6901c0333dcc49eccce2cd644a98e741547092972",
+    "robots.txt": "c58d1831ee6a6328e46bfbe5c9f12d3bfc46d5aece3fefc9a651c6e4ad00bcc0",
+    "a89fe58b91608f237688dc1fe7d1a67e.txt": "9df3da9b8f6f69d20a92df8c2718e3a554e2afbcf2aedef62c98ed2692f98a85"
+  },
+  "revision": "5b25ef014e0ba6802f660e6e9669a74c5be23230fba3b8f9a6e2ce1e3b6b90ea"
+}
